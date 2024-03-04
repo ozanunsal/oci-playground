@@ -1,0 +1,9 @@
+[automotive]
+name=CentOS SIG Automotive
+baseurl=https://mirror.stream.centos.org/SIGs/9-stream/automotive/$basearch/packages-main/
+gpgcheck=1
+priority=50
+enabled=1
+countme=1
+skip_if_unavailable=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-SIG-Automotive

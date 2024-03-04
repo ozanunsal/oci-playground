@@ -1,0 +1,3 @@
+RSTRNT_PKG_CMD=rpm-ostree
+RSTRNT_PKG_ARGS="-A --idempotent --allow-inactive -y"
+RSTRNT_BACKUP_DIR=/var/tmp/backup
